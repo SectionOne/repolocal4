@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+d645a9d - Oriol, 49 minutes ago : Create commit_logger.yml
+ba7e077 - Oriol, 52 minutes ago : Create test.txt
+d68bf27 - Oriol, 53 minutes ago : Create log_commits.go
